@@ -3,9 +3,11 @@
 This is a simple script to pull all prayer times from all available locations and put it in one single file. You can then use it on your app.
 
 ### How to use
-- node index
-- node index 2021
-- node index 2022
+- You need to have nodejs installed on your machine
+- Download/Clone this repo
+- cd into it
+- run `npm i`
+- run `node index` or `node index 2021`
 
 ### Sample output
 Output format is the same as the one on [MAMPU](https://www.data.gov.my/data/ms_MY/dataset/waktu-solat-seluruh-malaysia)
